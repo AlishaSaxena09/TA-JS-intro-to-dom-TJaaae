@@ -12,10 +12,15 @@ body {
 }
 .box {
   border: 2px solid #d6bcfa;
-  height: 500px;
+  height: 200px;
   border-radius: 10px;
 }
 h1,
 h2 {
   text-align: center;
+}
+.heading {
+  padding: 2rem;
+  color: white;
+  background-color: teal;
 }
